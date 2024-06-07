@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Продажа Трафика</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Продажа Трафика</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">О нас</a></li>
+                    <li><a href="#services">Услуги</a></li>
+                    <li><a href="#pricing">Цены</a></li>
+                    <li><a href="#contact">Контакты</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="hero">
+        <div class="container">
+            <h2>Купите качественный трафик для вашего бизнеса</h2>
+            <p>Увеличьте продажи и привлеките больше клиентов с помощью нашего трафика</p>
+            <a href="#pricing" class="btn">Узнать больше</a>
+        </div>
+    </section>
+
+    <section id="about" class="container">
+        <h2>О нас</h2>
+        <p>Мы предоставляем высококачественный трафик для ваших нужд. Наша цель - помочь вашему бизнесу расти и процветать.</p>
+    </section>
+
+    <section id="services" class="container">
+        <h2>Услуги</h2>
+        <div class="services">
+            <div class="service">
+                <h3>Таргетированный трафик</h3>
+                <p>Мы предлагаем таргетированный трафик для различных ниш и категорий.</p>
+            </div>
+            <div class="service">
+                <h3>Аналитика и отчеты</h3>
+                <p>Предоставляем подробную аналитику и отчеты о вашем трафике.</p>
+            </div>
+            <div class="service">
+                <h3>Поддержка клиентов</h3>
+                <p>Наша команда всегда готова помочь вам с любыми вопросами.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="pricing" class="container">
+        <h2>Цены</h2>
+        <div class="pricing">
+            <div class="price">
+                <h3>Базовый пакет</h3>
+                <p>1000 посетителей - $50</p>
+                <a href="#" class="btn">Купить</a>
+            </div>
+            <div class="price">
+                <h3>Стандартный пакет</h3>
+                <p>5000 посетителей - $200</p>
+                <a href="#" class="btn">Купить</a>
+            </div>
+            <div class="price">
+                <h3>Премиум пакет</h3>
+                <p>10000 посетителей - $350</p>
+                <a href="#" class="btn">Купить</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="container">
+        <h2>Контакты</h2>
+        <p>Свяжитесь с нами по электронной почте: info@traffic.com</p>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Продажа Трафика. Все права защищены.</p>
+        </div>
+    </footer>
+</body>
+</html>
